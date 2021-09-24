@@ -1,0 +1,24 @@
+D:\FACEL\V2\Einvoice\src\Service\Common\Service.Common.Paging\bin\Debug\netcoreapp3.1\Service.Common.Collection.dll
+D:\FACEL\V2\Einvoice\src\Service\Common\Service.Common.Paging\obj\Debug\netcoreapp3.1\Service.Common.Paging.AssemblyInfoInputs.cache
+D:\FACEL\V2\Einvoice\src\Service\Common\Service.Common.Paging\obj\Debug\netcoreapp3.1\Service.Common.Paging.AssemblyInfo.cs
+D:\FACEL\V2\Einvoice\src\Service\Common\Service.Common.Paging\bin\Debug\netcoreapp3.1\Service.Common.Paging.deps.json
+D:\FACEL\V2\Einvoice\src\Service\Common\Service.Common.Paging\bin\Debug\netcoreapp3.1\Service.Common.Paging.dll
+D:\FACEL\V2\Einvoice\src\Service\Common\Service.Common.Paging\bin\Debug\netcoreapp3.1\Service.Common.Paging.pdb
+D:\FACEL\V2\Einvoice\src\Service\Common\Service.Common.Paging\bin\Debug\netcoreapp3.1\Service.Common.Collection.pdb
+D:\FACEL\V2\Einvoice\src\Service\Common\Service.Common.Paging\obj\Debug\netcoreapp3.1\Service.Common.Paging.csprojAssemblyReference.cache
+D:\FACEL\V2\Einvoice\src\Service\Common\Service.Common.Paging\obj\Debug\netcoreapp3.1\Service.Common.Paging.csproj.CopyComplete
+D:\FACEL\V2\Einvoice\src\Service\Common\Service.Common.Paging\obj\Debug\netcoreapp3.1\Service.Common.Paging.dll
+D:\FACEL\V2\Einvoice\src\Service\Common\Service.Common.Paging\obj\Debug\netcoreapp3.1\Service.Common.Paging.pdb
+D:\Pruebas Entrevistas\Six Degrees it\Proyecto\PruebaSD\src\Common\Service.Common.Paging\bin\Debug\netcoreapp3.1\Service.Common.Paging.deps.json
+D:\Pruebas Entrevistas\Six Degrees it\Proyecto\PruebaSD\src\Common\Service.Common.Paging\bin\Debug\netcoreapp3.1\Service.Common.Paging.dll
+D:\Pruebas Entrevistas\Six Degrees it\Proyecto\PruebaSD\src\Common\Service.Common.Paging\bin\Debug\netcoreapp3.1\Service.Common.Paging.pdb
+D:\Pruebas Entrevistas\Six Degrees it\Proyecto\PruebaSD\src\Common\Service.Common.Paging\bin\Debug\netcoreapp3.1\Service.Common.Collection.dll
+D:\Pruebas Entrevistas\Six Degrees it\Proyecto\PruebaSD\src\Common\Service.Common.Paging\bin\Debug\netcoreapp3.1\Service.Common.Collection.pdb
+D:\Pruebas Entrevistas\Six Degrees it\Proyecto\PruebaSD\src\Common\Service.Common.Paging\obj\Debug\netcoreapp3.1\Service.Common.Paging.csproj.AssemblyReference.cache
+D:\Pruebas Entrevistas\Six Degrees it\Proyecto\PruebaSD\src\Common\Service.Common.Paging\obj\Debug\netcoreapp3.1\Service.Common.Paging.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pruebas Entrevistas\Six Degrees it\Proyecto\PruebaSD\src\Common\Service.Common.Paging\obj\Debug\netcoreapp3.1\Service.Common.Paging.AssemblyInfoInputs.cache
+D:\Pruebas Entrevistas\Six Degrees it\Proyecto\PruebaSD\src\Common\Service.Common.Paging\obj\Debug\netcoreapp3.1\Service.Common.Paging.AssemblyInfo.cs
+D:\Pruebas Entrevistas\Six Degrees it\Proyecto\PruebaSD\src\Common\Service.Common.Paging\obj\Debug\netcoreapp3.1\Service.Common.Paging.csproj.CoreCompileInputs.cache
+D:\Pruebas Entrevistas\Six Degrees it\Proyecto\PruebaSD\src\Common\Service.Common.Paging\obj\Debug\netcoreapp3.1\Service.Common.Paging.csproj.CopyComplete
+D:\Pruebas Entrevistas\Six Degrees it\Proyecto\PruebaSD\src\Common\Service.Common.Paging\obj\Debug\netcoreapp3.1\Service.Common.Paging.dll
+D:\Pruebas Entrevistas\Six Degrees it\Proyecto\PruebaSD\src\Common\Service.Common.Paging\obj\Debug\netcoreapp3.1\Service.Common.Paging.pdb

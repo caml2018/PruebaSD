@@ -1,0 +1,18 @@
+D:\FACEL\V2\Einvoice\src\Service\Common\Service.Common.Collection\bin\Debug\netcoreapp3.1\Service.Common.Collection.deps.json
+D:\FACEL\V2\Einvoice\src\Service\Common\Service.Common.Collection\bin\Debug\netcoreapp3.1\Service.Common.Collection.dll
+D:\FACEL\V2\Einvoice\src\Service\Common\Service.Common.Collection\bin\Debug\netcoreapp3.1\Service.Common.Collection.pdb
+D:\FACEL\V2\Einvoice\src\Service\Common\Service.Common.Collection\obj\Debug\netcoreapp3.1\Service.Common.Collection.csprojAssemblyReference.cache
+D:\FACEL\V2\Einvoice\src\Service\Common\Service.Common.Collection\obj\Debug\netcoreapp3.1\Service.Common.Collection.AssemblyInfoInputs.cache
+D:\FACEL\V2\Einvoice\src\Service\Common\Service.Common.Collection\obj\Debug\netcoreapp3.1\Service.Common.Collection.AssemblyInfo.cs
+D:\FACEL\V2\Einvoice\src\Service\Common\Service.Common.Collection\obj\Debug\netcoreapp3.1\Service.Common.Collection.dll
+D:\FACEL\V2\Einvoice\src\Service\Common\Service.Common.Collection\obj\Debug\netcoreapp3.1\Service.Common.Collection.pdb
+D:\Pruebas Entrevistas\Six Degrees it\Proyecto\PruebaSD\src\Common\Service.Common.Collection\bin\Debug\netcoreapp3.1\Service.Common.Collection.deps.json
+D:\Pruebas Entrevistas\Six Degrees it\Proyecto\PruebaSD\src\Common\Service.Common.Collection\bin\Debug\netcoreapp3.1\Service.Common.Collection.dll
+D:\Pruebas Entrevistas\Six Degrees it\Proyecto\PruebaSD\src\Common\Service.Common.Collection\bin\Debug\netcoreapp3.1\Service.Common.Collection.pdb
+D:\Pruebas Entrevistas\Six Degrees it\Proyecto\PruebaSD\src\Common\Service.Common.Collection\obj\Debug\netcoreapp3.1\Service.Common.Collection.csproj.AssemblyReference.cache
+D:\Pruebas Entrevistas\Six Degrees it\Proyecto\PruebaSD\src\Common\Service.Common.Collection\obj\Debug\netcoreapp3.1\Service.Common.Collection.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pruebas Entrevistas\Six Degrees it\Proyecto\PruebaSD\src\Common\Service.Common.Collection\obj\Debug\netcoreapp3.1\Service.Common.Collection.AssemblyInfoInputs.cache
+D:\Pruebas Entrevistas\Six Degrees it\Proyecto\PruebaSD\src\Common\Service.Common.Collection\obj\Debug\netcoreapp3.1\Service.Common.Collection.AssemblyInfo.cs
+D:\Pruebas Entrevistas\Six Degrees it\Proyecto\PruebaSD\src\Common\Service.Common.Collection\obj\Debug\netcoreapp3.1\Service.Common.Collection.csproj.CoreCompileInputs.cache
+D:\Pruebas Entrevistas\Six Degrees it\Proyecto\PruebaSD\src\Common\Service.Common.Collection\obj\Debug\netcoreapp3.1\Service.Common.Collection.dll
+D:\Pruebas Entrevistas\Six Degrees it\Proyecto\PruebaSD\src\Common\Service.Common.Collection\obj\Debug\netcoreapp3.1\Service.Common.Collection.pdb
